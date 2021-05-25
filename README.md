@@ -12,4 +12,5 @@ Relationship microservice - a service that takes care of relationship between ea
 
 Remember that each service has its own database.
 
-https://www.xenonstack.com/images/insights/xenonstack-what-are-microservices.png
+![Microservice example](https://www.xenonstack.com/images/insights/xenonstack-what-are-microservices.png)
+
