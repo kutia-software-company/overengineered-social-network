@@ -1,0 +1,7 @@
+ts: false
+jsx: false
+flow: false
+coverage: true
+expose-gc: true
+timeout: 60
+check-coverage: false
