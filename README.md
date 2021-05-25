@@ -11,3 +11,5 @@ Posts microservice - holds posts of users and anything related to posted content
 Relationship microservice - a service that takes care of relationship between each user.
 
 Remember that each service has its own database.
+
+https://www.xenonstack.com/images/insights/xenonstack-what-are-microservices.png
